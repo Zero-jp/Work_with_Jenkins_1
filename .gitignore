@@ -14,7 +14,7 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # Ignore build catalog
-build/
+/build
 
 # Ignore temporary catalog
-~/
+~*.*
