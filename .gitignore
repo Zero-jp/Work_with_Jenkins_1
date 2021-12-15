@@ -15,6 +15,6 @@ gradle-app.setting
 
 # Ignore build catalog
 /build
-
+!build/test-results
 # Ignore temporary catalog
 ~*.*
